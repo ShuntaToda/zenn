@@ -57,7 +57,7 @@ https://worldskills.jp/nationalskills/
 - M3 フロントエンド
 - M4 デザインレイアウト
 
-この記事では特に難しいM2, M3の課題を解説します。
+この記事ではM2の課題を解説します。
 
 **課題一覧はこちら↓**
 https://www.javada.or.jp/jigyou/gino/zenkoku/n_63/kadai/39.html
