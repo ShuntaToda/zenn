@@ -1,9 +1,9 @@
 ---
 title: "若手ウェブエンジニアを育成する「第63回 技能五輪ウェブデザイン職種」のM2バックエンド課題を解説してみる"
-emoji: "🗂"
+emoji: "🧑‍💻"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
-published: false
+topics: ["laravel"]
+published: true
 ---
 
 こんにちは！
